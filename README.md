@@ -1,0 +1,2 @@
+# ping
+JavaScript  education purpose
